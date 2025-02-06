@@ -1,0 +1,13 @@
+{
+  "name": "com.gamble.template",
+  "version": "0.0.1",
+  "displayName": "Unity Template",
+  "description": "Template Unity project with boiler functionality",
+  "dependencies": {
+    "com.unity.inputsystem": "1.11.2"
+  },
+  "author": {
+    "name": "Gamble",
+    "email": "gambledev@outlook.com"
+  }
+}
